@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 💫 About Me:
+# Hi there 👋
 I am a Full Stack Developer with 2 years 6 months of experience building scalable, high-quality web applications primarily in the Legal domain. My expertise lies in Angular and Node.js, coupled with strong backend knowledge using Express.js and databases including MongoDB and SQL. I am passionate about creating efficient, secure, and user-friendly solutions through collaborative agile development practices.
 
 
